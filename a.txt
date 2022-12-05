@@ -1,5 +1,0 @@
-line1 on master1
-
-line2 on mmaster2
-
-line3 on master3
